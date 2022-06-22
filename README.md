@@ -1,5 +1,4 @@
 # Coseke Planner Official Theme
-
 Free Admin Template from [CodedThemes](https://codedthemes.com/)
 
 This is **unofficial** template, I've downloaded from [CodedThemes Template](https://codedthemes.com/item/datta-able-react-free-admin-template). 
