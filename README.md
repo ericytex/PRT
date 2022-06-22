@@ -1,7 +1,7 @@
 # Coseke Planner Official.
 Project Planning and reporting Webapplication developed wiht React Frontend and various tools on teh backend to avail flexibility.
 
-<img src="https://github.com/huynhsamha/datta-able-react-admin/blob/master/public/datta-able-banner.png" width="100%" />
+<img src="https://github.com/huynhsamha/datta-able-react-admin/blob/master/public/datta-able-banner.png" width="100%" />-->
 <br/>
 <br/>
 
