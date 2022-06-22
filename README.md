@@ -1,5 +1,5 @@
 # Coseke Planner Official.
-Project Planning and repo
+Project Planning and reporting 
 
 <img src="https://github.com/huynhsamha/datta-able-react-admin/blob/master/public/datta-able-banner.png" width="100%" />
 <br/>
