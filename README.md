@@ -1,4 +1,4 @@
-# Datta Able React Free Admin Template - Unofficial
+# Coseke Planner Official Theme
 
 Free Admin Template from [CodedThemes](https://codedthemes.com/)
 
