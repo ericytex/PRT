@@ -1,11 +1,5 @@
 # Coseke Planner Official.
-Free Admin Template from [CodedThemes](https://codedthemes.com/)
-
-This is **unofficial** template, I've downloaded from [CodedThemes Template](https://codedthemes.com/item/datta-able-react-free-admin-template). 
-
-If you want the lastest version of this template, please visit [CodedThemes's homepage](https://codedthemes.com/)
-
-Thanks [CodedThemes](https://github.com/CodedThemes).
+Project Planning and repo
 
 <img src="https://github.com/huynhsamha/datta-able-react-admin/blob/master/public/datta-able-banner.png" width="100%" />
 <br/>
