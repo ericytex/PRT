@@ -5,9 +5,6 @@ Project Planning and reporting Webapplication developed wiht React Frontend and 
 <br/>
 <br/>
 
-# CodedThemes
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
