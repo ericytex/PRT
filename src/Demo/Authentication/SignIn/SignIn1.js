@@ -12,7 +12,7 @@ class SignUp1 extends React.Component {
                 <Breadcrumb/>
                 <div className="auth-wrapper">
 
-                    
+                    <div>
                     <div className="auth-content">
                         <div className="auth-bg">
                             <span className="r"/>
@@ -44,6 +44,8 @@ class SignUp1 extends React.Component {
                             </div>
                         </div>
                     </div>
+                    </div>
+                    
                 </div>
             </Aux>
         );
