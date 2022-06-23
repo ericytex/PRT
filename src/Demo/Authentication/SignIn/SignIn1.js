@@ -11,6 +11,8 @@ class SignUp1 extends React.Component {
             <Aux>
                 <Breadcrumb/>
                 <div className="auth-wrapper">
+
+                    
                     <div className="auth-content">
                         <div className="auth-bg">
                             <span className="r"/>
